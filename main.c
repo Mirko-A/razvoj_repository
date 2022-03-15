@@ -2,7 +2,7 @@
 # include <stdint.h>
 int16_t main ()
 {
-while (1)
-;
+while (1);
+
 return 0;
 }
